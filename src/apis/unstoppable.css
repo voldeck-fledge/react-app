@@ -1,0 +1,15 @@
+.title{
+    font-size: 18pt;
+    color: blueviolet;
+}
+
+.item{
+    margin: 10px;
+    font-size: 20pt;
+    color: crimson;
+}
+
+.body{
+    font-size: 16pt;
+    color: black;
+}
